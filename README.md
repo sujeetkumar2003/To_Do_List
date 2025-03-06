@@ -16,8 +16,8 @@ How to Use:
 4. Select a task and click "Mark as Completed" to mark it as done.
 
 Requirements:
-- Python 3.x
-- Tkinter (comes pre-installed with Python)
+- Python 3.10
+- Tkinter 
 
 Developed by Sujeet Kumar  
 Email: vishwakarma.sujeet1626@gmail.com
